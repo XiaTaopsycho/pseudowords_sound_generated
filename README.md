@@ -4,6 +4,6 @@
 
 ### auditory_generated.py is for generating the sound of pseudowords by calling the Text-to-speech of iFLYTEK. 
 
-### Here we generated mandarin and Hong Kong Cantonese.
+### Here we generated mandarin and Hong Kong cantonese.
 
 ### Created by Lingqi Zhang and Tao Xia @ HKU
