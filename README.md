@@ -6,4 +6,4 @@
 
 ### Here, we generated mandarin and Hong Kong cantonese.
 
-### Created by Lingqi Zhang and Tao Xia @ HKU
+### Contributed by Lingqi Zhang and Tao Xia @ HKU
