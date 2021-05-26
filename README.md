@@ -1,4 +1,4 @@
-# pseudowords_auditory_generated
+# pseudowords_sound_generated
 
 ### randomwords.py was for shffule the real word into pseudowords
 
